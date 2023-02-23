@@ -1,12 +1,16 @@
-# QHack2023-coding-challenges
-Coding challenges and solutions of the [QHack 2023](https://qhack.ai) coding-challenge competition by [Xanadu](https://www.xanadu.ai)
+# QHack2023 coding challenges: MFC
+ Challenges and solutions by MFC team for the [QHack 2023](https://qhack.ai) coding-challenge competition organized by [Xanadu](https://www.xanadu.ai). 
 
 <p align="center">
 <img src="img/ranking_clean.jpg" alt="drawing" width="100%"/>
 </p>
 
-
-
+---
+## Contributors:
+* [@EmilianoG-byte](https://github.com/EmilianoG-byte)
+* [@emilymayhaworth](https://github.com/emilymayhaworth)
+* [@fiyoooo](https://github.com/fiyoooo)
+* [@LionFrangoulis](https://github.com/LionFrangoulis)
 ----
 ## Index
 
@@ -18,7 +22,7 @@ Coding challenges and solutions of the [QHack 2023](https://qhack.ai) coding-cha
 
 ----
 
-# Statistics of team:
+## Statistics of team:
 
 <p align="center">
 <img src="img/stats.jpg" alt="drawing" width="80%"/>

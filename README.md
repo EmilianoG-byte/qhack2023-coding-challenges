@@ -1,4 +1,4 @@
-# qhack2023-coding-challenges
+# QHack2023-coding-challenges
 Coding challenges and solutions of the [QHack 2023](https://qhack.ai) coding-challenge competition by [Xanadu](https://www.xanadu.ai)
 
 <p align="center">
